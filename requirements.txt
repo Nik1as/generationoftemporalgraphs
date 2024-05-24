@@ -1,0 +1,13 @@
+networkx[default]
+networkit
+matplotlib
+powerlaw
+seaborn
+pandas
+numpy
+tabulate
+
+jupyter
+
+requests
+beautifulsoup4
